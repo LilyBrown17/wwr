@@ -81,6 +81,11 @@ nav a:hover{
 }
 footer{
     background-color: #49111C;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 h4{
@@ -157,13 +162,6 @@ footer a:hover{
 }
 #logolink{
     padding-top: 5px;
-}
-footer {
-    padding: 25px 50px;
-    margin-top: 200px;
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
 }
 footer .social img{
     padding: 25px 50px;
